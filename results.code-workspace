@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../results"
+		},
+		{
+			"path": "../results/.git"
+		},
+		{
+			"path": "../results/.qoder"
+		},
+		{
+			"path": "../results/.vscode"
+		},
+		{
+			"path": "../results/css"
+		},
+		{
+			"path": "../results/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
